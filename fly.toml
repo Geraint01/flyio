@@ -1,4 +1,4 @@
-app = 99router"
+app = "99router"
 primary_region = "sin"
 
 [http_service]
